@@ -36,4 +36,5 @@ Nextfit 방식으로 Freelist 를 구현
 - free
 
   - magic num 을 검사 후 요청한 크기 만큼을 해제
+  
   - 연속된 freelist 의 경우 coleasing 
